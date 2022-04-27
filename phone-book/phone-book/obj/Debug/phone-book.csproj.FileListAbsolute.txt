@@ -1,0 +1,8 @@
+C:\Users\yeolb\Desktop\phone-book\phone-book\bin\Debug\phone-book.exe.config
+C:\Users\yeolb\Desktop\phone-book\phone-book\bin\Debug\phone-book.exe
+C:\Users\yeolb\Desktop\phone-book\phone-book\bin\Debug\phone-book.pdb
+C:\Users\yeolb\Desktop\phone-book\phone-book\obj\Debug\phone-book.csproj.AssemblyReference.cache
+C:\Users\yeolb\Desktop\phone-book\phone-book\obj\Debug\phone-book.csproj.SuggestedBindingRedirects.cache
+C:\Users\yeolb\Desktop\phone-book\phone-book\obj\Debug\phone-book.csproj.CoreCompileInputs.cache
+C:\Users\yeolb\Desktop\phone-book\phone-book\obj\Debug\phone-book.exe
+C:\Users\yeolb\Desktop\phone-book\phone-book\obj\Debug\phone-book.pdb
